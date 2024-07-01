@@ -1,0 +1,63 @@
+{
+"name": "RNA-seq",
+  "homePage": "",
+  "repos": {
+    "https://github.com/nf-core/modules.git": {
+      "modules": {
+        "nf-core": {
+          "nanoplot": {
+            "branch": "master",
+            "git_sha": "e94623d0dd5015ccb07e941c8d3796bda449da95",
+            "installed_by": ["modules"]
+          },
+          "minimap2/align": {
+            "branch": "master",
+            "git_sha": "e94623d0dd5015ccb07e941c8d3796bda449da95",
+            "installed_by": ["modules"]
+          },
+          "samtools/index": {
+            "branch": "master",
+            "git_sha": "e94623d0dd5015ccb07e941c8d3796bda449da95",
+            "installed_by": ["modules"]
+          },
+          "samtools/view": {
+            "branch": "master",
+            "git_sha": "e94623d0dd5015ccb07e941c8d3796bda449da95",
+            "installed_by": ["modules"]
+          },
+          "samtools/stats": {
+            "branch": "master",
+            "git_sha": "e94623d0dd5015ccb07e941c8d3796bda449da95",
+            "installed_by": ["modules"]
+          },
+          "samtools/sort": {
+            "branch": "master",
+            "git_sha": "e94623d0dd5015ccb07e941c8d3796bda449da95",
+            "installed_by": ["modules"]
+          },
+          "subread/featurecounts": {
+            "branch": "master",
+            "git_sha": "e94623d0dd5015ccb07e941c8d3796bda449da95",
+            "installed_by": ["modules"]
+          },
+          "bedtools/bamtobed": {
+            "branch": "master",
+            "git_sha": "e94623d0dd5015ccb07e941c8d3796bda449da95",
+            "installed_by": ["modules"]
+          },
+          "stringtie/stringtie": {
+            "branch": "master",
+            "git_sha": "e94623d0dd5015ccb07e941c8d3796bda449da95",
+            "installed_by": ["modules"]
+          },
+          "stringtie/merge": {
+            "branch": "master",
+            "git_sha": "e94623d0dd5015ccb07e941c8d3796bda449da95",
+            "installed_by": ["modules"]
+          }
+        }
+        }
+    }
+}
+}
+  

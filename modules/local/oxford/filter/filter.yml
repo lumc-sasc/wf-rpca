@@ -1,0 +1,8 @@
+AlnContext:
+  Ref: ${fasta}
+  LeftShift: -${oxford_poly_context}
+  RightShift: ${oxford_poly_context}
+  RegexEnd: "[Aa]${oxford_max_poly_run}"
+  Stranded: True
+  Invert: True
+  Tsv: alignments/internal_priming_fail.tsv 
